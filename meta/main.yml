@@ -38,6 +38,7 @@ galaxy_info:
   #  - all
     - 5
     - 6
+  # https://bugzilla.redhat.com/show_bug.cgi?id=1250598
   #  - 7
   #- name: GenericUNIX
   #  versions:
